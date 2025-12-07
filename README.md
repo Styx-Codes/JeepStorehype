@@ -6,10 +6,6 @@ Below is a clean, professional version of your README section **without emoticon
 
 A clean, responsive, and beginner-friendly full-stack application built with MongoDB, Express, React, and Node.js.
 
-<p align="center">
-  <img src="/frontend/public/screenshot-for-readme.png" alt="Demo App" width="700"/>
-</p>
-
 ---
 
 ## Features
